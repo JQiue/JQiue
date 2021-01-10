@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**JQiue/JQiue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
++ 👨‍ At present is a student
++ 💻 I am currently learning programming
++ 🏓 Hobby: code & rubik & run & skipping & music
++ 👋 My personal site is [wjqis.me](https://wjqis.me)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=JQiue&show_icons=true&include_all_commits=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=JQiue&layout=compact&hide=HTML">
+</p>
+</details>
