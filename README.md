@@ -2,7 +2,7 @@
 
 + 👨‍ At present is a student
 + 💻 I am currently learning programming
-+ 🏓 Hobby: code & rubik & run & skipping & music
++ 🏓 Hobby: code & rubik & running & skipping & music
 + 👋 My personal site is [wjqis.me](https://wjqis.me)
 
 ---
