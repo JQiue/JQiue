@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-+ 👨‍ At present is a student
-+ 💻 I am currently learning programming
-+ 🏓 Hobby: code & rubik & running & skipping & music
-+ 👋 My personal site is [wjqis.me](https://wjqis.me)
++ 👨‍ At present is a student.
++ 💻 I am currently learning programming.
++ 🏓 My hobbies are programming, rubik, running, skipping and music.
++ 👋 My personal site is [wjqis.me](https://wjqis.me).
 
 ---
 
